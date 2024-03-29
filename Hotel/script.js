@@ -40,5 +40,5 @@ function calculateTotal() {
 
 document.getElementById('bookingForm').addEventListener('submit', function(event) {
   event.preventDefault();
-  alert('Form submitted!'); // You can replace this with your submission logic
+  alert('Form submitted!');
 });
